@@ -1,7 +1,7 @@
 <?php
 require_once("db.php");
 require_once("config.php");
-echo "hello" ;exit;
+
 testservice();
 // insert_with_transaction();
 function select()
