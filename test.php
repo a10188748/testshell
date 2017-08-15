@@ -1,7 +1,7 @@
 <?php
 require_once("db.php");
 require_once("config.php");
-echo '111';
+echo '111';   
 echo 222;
 echo "hello";exit;
 testservice();
